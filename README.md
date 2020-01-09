@@ -13,7 +13,7 @@
 - [Keep a Changelog](http://keepachangelog.com/ "Keep a Changelog")
     - CHANGELOGのフォーマットについて
 - [gitにおけるコミットログ/メッセージ例文集100](http://anond.hatelabo.jp/20160725092419 "gitにおけるコミットログ/メッセージ例文集100")
-
+- [LGTM! チャットやGitHubでよく見る英略語ってこんな意味](https://blog.sixapart.jp/2016-10/lgtm-github.html)
 ## Release Note
 
 - [Release note のための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き](http://d.hatena.ne.jp/pyopyopyo/20070922/p1)
